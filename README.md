@@ -1,2 +1,2 @@
-# SmartLocker
-A software for smart locker
+# SmartLockers
+A software implementaion for smart lockers
